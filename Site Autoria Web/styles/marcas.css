@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 100%;
+}
+#marcas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+
+.card{
+    width: 400px;
+    height: 400px;
+}
+
+.card img{
+    width: 400px;
+    height: 300px;
+}

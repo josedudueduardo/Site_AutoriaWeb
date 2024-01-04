@@ -1,0 +1,36 @@
+.titulo{
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 100%;
+}
+#marcas{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 10px;
+}
+
+#marcas img{
+    height: 150px;
+    width: 100px;
+}
+
+.card{
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.marcas-item{
+    margin-bottom: 10px;
+}
+
+.div-img{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}

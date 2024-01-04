@@ -1,0 +1,26 @@
+#nav{
+    background-color: black;
+}
+
+#nav a{
+    color: white;
+}
+
+#nav button{
+    background-color: white;
+}
+
+
+#car{
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    display: flex;
+    gap: 20px;
+    
+}
+
+#car img{
+    max-width: 30px;
+    max-height: 30px;
+}
