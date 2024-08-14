@@ -1,4 +1,4 @@
-// carrinho.js
+
 const carrinho = JSON.parse(localStorage.getItem('carrinho')) || [];
 
 $(document).ready(function() {
